@@ -22,7 +22,8 @@ The `memory.py` contains the Prioritized Experience Replay implementation.
 Wandb was used to graph the rewards while running the code. During the runs, you can skip the option of using Wandb. However, by doing so, there will be no graphs. To see the graphs, follow the Wandb installation guide. 
 
 In the code, we mention two references to **DQN** and **DRQN (DQN + LSTM)** implementations. Please follow the guides on the respective repositories to run the codes and compare the graphs: 
-1) 
+1) https://github.com/marload/DeepRL-TensorFlow2/blob/master/DQN/DQN_Discrete.py
+2) https://github.com/marload/DeepRL-TensorFlow2/blob/master/DRQN/DRQN_Discrete.py
 
 
 ## Conclusions 
